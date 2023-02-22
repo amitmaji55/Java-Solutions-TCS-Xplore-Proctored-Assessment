@@ -2,7 +2,7 @@
 ✨ **Feel free to contribute** ✨
 # TCS Xplore Assessment Solutions 2020
 
-This repository contains solutions to the Java programming questions asked in the TCS Xplore Assessments 2020.
+This repository contains solutions to the Java programming questions asked in the TCS Xplore Assessments 2023.
 
 ##### Maintained by [venkivijay](https://www.venkivijay.com), with the only objective of helping others.
 
